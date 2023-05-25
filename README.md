@@ -2,5 +2,6 @@
 This just as an small mini project
 The output will look like
 :---------------->----------------->=+---------->
-![image](https://github.com/naveennekkanti1/Hotel-Management-System/assets/111896305/2cdb3c34-4b90-420c-8945-1213b1b0dd64)
-![image](https://github.com/naveennekkanti1/Hotel-Management-System/assets/111896305/b7a843a5-d624-4042-afa7-a462978ebb71)
+![Screenshot (152)](https://github.com/naveennekkanti1/Hotel-Management-System/assets/111896305/13d98984-ac3d-4523-a978-c9563e519802)
+![Screenshot (153)](https://github.com/naveennekkanti1/Hotel-Management-System/assets/111896305/b466e2d4-0f04-4e3d-a6de-45cbe2e0252c)
+
